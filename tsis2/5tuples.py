@@ -4,4 +4,4 @@ print(len(mytuple))
 print(type(mytuple))
 #A tuple is a collection which is ordered and unchangeable.
 # tuples have defined order, and that order will not change.
-
+# E E E
